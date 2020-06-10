@@ -22,6 +22,14 @@ body {
 	color:#6f6f6f;
 }
 
+@media (max-width: 540px)
+{
+	.donation
+	{
+	width:400px
+	}
+}
+
 a{
     color: #6f6f6f;
 }
