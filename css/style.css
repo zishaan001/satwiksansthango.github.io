@@ -1110,7 +1110,8 @@ video {
     text-transform: uppercase;
 }
 
-@media (max-width: 1024px) {
+
+(max-width: 1024px) {
 	
 h1 {
     font-size: 40px;
@@ -1522,3 +1523,26 @@ element.style {
 }
 
 }
+
+.row{
+    width:100%;
+  margin: 0px;  
+}
+.row .header-social {
+    text-align: center
+}
+.row .header-social .fa{
+    padding-left: 25px;
+    font-size: 60px;
+    text-align: center
+}
+.row .header-social .facebook{
+    color:#103B6B;
+}
+.row .header-social .twitter{
+    color:#51B2FA;
+}
+.row .header-social .youtube{
+    color:#AC3F3F
+}
+
