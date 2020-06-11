@@ -1528,10 +1528,20 @@ element.style {
     width:100%;
   margin: 0px;  
 }
-.row .header-social {
+.row #social {
     text-align: center
 }
-.row .header-social .fa{
+.row .header-social #fafafacebook{
+    padding-left: 25px;
+    font-size: 60px;
+    text-align: center
+}
+.row .header-social #fafatwitter{
+    padding-left: 25px;
+    font-size: 60px;
+    text-align: center
+}
+.row .header-social #fafautube{
     padding-left: 25px;
     font-size: 60px;
     text-align: center
