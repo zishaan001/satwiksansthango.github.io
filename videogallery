@@ -126,13 +126,13 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 			
 					<div class="col-md-6 clearfix top-off" >
 						<video width="400" controls style="border:2px solid green">
-							<source src="videos/video2.mp4" type="video/mp4">
+							<source src="videos/VID-20200614-WA0002.mp4" type="video/mp4">
 						</video>
 					</div>
 					<div class="col-md-6 clearfix top-off">
 					
 							<video width="400" controls style="border:2px solid green;height: 306px">
-									<source src="videos/video3.mp4" type="video/mp4">
+									<source src="videos/VID-20200614-WA0003 (1).mp4" type="video/mp4">
 								</video>
 					</div>
 			
