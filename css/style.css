@@ -22,7 +22,27 @@ body {
 	color:#6f6f6f;
 }
 
-
+#btn1{
+    border: 2px solid #2f3191;
+    border-radius: 3px;
+    color: #2f3191;
+    display: inline-block;
+    margin: 30px 0 0 0;
+    padding: 9px 20px;
+	font-weight:600;
+	text-transform:uppercase;
+  } 
+  #btn1:hover{
+    background: red;
+    border: 2px solid red;
+    border-radius: 3px;
+    color: white;
+    display: inline-block;
+    margin: 30px 0 0 0;
+    padding: 9px 20px;
+	font-weight:600;
+	text-transform:uppercase;
+  }
 a{
     color: #6f6f6f;
 }
