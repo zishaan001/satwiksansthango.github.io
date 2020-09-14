@@ -381,25 +381,21 @@ p{
 	background:url(../images/banner1.jpg);
     background-size: 100% 100%;
     background-repeat: no-repeat;
-    border: 5px solid rgba(0, 110, 255, 0.808)
 }
 #first-slider .slide2 {
 	background:url(../images/banner2.jpg);
     background-size: 100% 100%;
     background-repeat: no-repeat;
-    border: 5px solid rgba(0, 110, 255, 0.808)
 }
 #first-slider .slide3 {
 	background:url(../images/banner3.jpg);
     background-size: 100% 100%;
     background-repeat: no-repeat;
-    border: 5px solid rgba(0, 110, 255, 0.808)
 }
 #first-slider .slide4 {
 	background:url(../images/banner4.jpg);
     background-size: 100% 100%;
     background-repeat: no-repeat;
-    border: 5px solid rgba(0, 110, 255, 0.808)
 }
 
 /*ABOUT SECTION*/
