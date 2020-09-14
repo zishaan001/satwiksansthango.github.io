@@ -202,6 +202,7 @@ p{
 #first-slider .slide1 h2 span, #first-slider .slide2 h2 span, #first-slider .slide3 h2 span, #first-slider .slide4 h2 span{
 	background: #2f3191;
 	padding: 0 20px;
+	border-radius:5px;
 }
 #first-slider .slide1 h3, #first-slider .slide2 h3, #first-slider .slide3 h3, #first-slider .slide4 h3{
     color: #fff;
@@ -226,6 +227,7 @@ p{
 	display:inline-block;
 	border-radius:3px;
 	padding:5px 20px;
+	margin-top:10px
 }
 #first-slider .slide1 h4 a:hover,#first-slider .slide2 h4 a:hover,#first-slider .slide3 h4 a:hover,#first-slider .slide4 h4 a:hover{
 	color:#fff;
